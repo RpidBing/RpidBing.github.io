@@ -2,6 +2,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'RpidBing.github.io'
+    site: 'https://RpidBing.github.io'
 });
    
